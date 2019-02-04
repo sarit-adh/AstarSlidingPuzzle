@@ -1,4 +1,4 @@
-# AstarSlidingPuzzle
+# SlidingPuzzle
 
 The 'Code' folder consists of four python files.
 SlidingPuzzle.py and GenerateGraph.py files contain all 
